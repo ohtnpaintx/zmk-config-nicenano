@@ -4,7 +4,7 @@
   };
 
 default_kscan: kscan {
-  compatible = "zmk,kscan-gpio-matrix";
+  compatible = "zmk,kscan-gpio-direct";
   label = "default_kscan";
 
   input-gpios = 
