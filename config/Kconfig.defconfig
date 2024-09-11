@@ -1,6 +1,0 @@
-if SHIELD_NICENANO
-
-config ZMK_KEYBOARD_NAME
-	default "nicenano"
-	
-endif
