@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: nicenanojcg_left
+    shield: nicenano_left
   - board: nice_nano_v2
-    shield: nicenanojcg_right
+    shield: nicenano_right
